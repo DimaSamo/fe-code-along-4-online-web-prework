@@ -118,3 +118,7 @@ img, video, audio{
 }
 
 /*///// SECTIONS ////////*/
+section{
+  margin-bottom: 20px;
+  padding: 20px;
+}
